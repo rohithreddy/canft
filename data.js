@@ -17,7 +17,7 @@ const data = [
     image:
       'https://img.rarible.com/prod/image/upload/t_gif_preview/prod-itemImages/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:182252',
     name: 'Crypto Rune — 03 ¹¹',
-    price: 355.4,
+    price: 355,
     category: "Video",
   },
   {
