@@ -39,3 +39,38 @@ The DAO will also cover the development of the project, that is, the cost to the
 
 Initially, they will be informal voting carried out in a forum or a means designed for it. Then it will be through a platform where the weight of the vote will be counted as the amount of token owned by each interested party.
 But the long-term goal is for the votes to be carried out 100% on-chain so that little by little it becomes an autonomous DAO without the intervention of any intermediary.
+
+## 🚀 Roadmap 🚀
+
+> Unfortunately, in the hackathon carried out in gitcoin, it was not possible to carry out a complete development (programming) of the project due to a lack of resources.
+
+> If somehow it is possible to obtain some resources from the hackathon, or from a mini-grant awarded, the project team will be able to follow its development and secure the roadmap below.
+
+### Q3 2021
+
+#### 1 Canft Project Structure
+
+- [ ] Build a landing page (React || VueJs && Typescript)
+- [ ] Start developing the smart contracts (Rust)
+- [ ] UI/UX Design
+- [ ] Start developing the frontend for users to use the marketplace
+- [ ] Launch token minter tool
+- [ ] Allow for initial auction price and auctions, royalties, instant buy trigger, unlocked when purchased capabilities, special nft events, and mint off NFTs platform functionality.
+
+#### 2 Canft Prototype
+
+- [ ] Update website with full information about the project
+- [ ] Prepare documentation
+- [ ] Finish developing the marketplace smart contract
+- [ ] Inject [casper-js-sdk](https://github.com/casper-ecosystem/casper-js-sdk)
+- [ ] Start auditing (open-source audit tool)
+- [ ] Finish frontend development
+- [ ] Begin governance and token development
+
+#### 3 Launch Canft V1
+
+- [ ] Token issuance and airdrop
+- [ ] Launch marketplace
+- [ ] Kick-off marketing events
+- [ ] Launch first version of DAO Governance
+- [ ] Audit
