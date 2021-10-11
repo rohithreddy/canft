@@ -79,3 +79,7 @@ But the long-term goal is for the votes to be carried out 100% on-chain so that 
 - [ ] Kick-off marketing events
 - [ ] Launch first version of DAO Governance
 - [ ] Audit
+
+## How it Works?
+
+![how-canft-works](./public/canft-how-it-works.png)
