@@ -82,7 +82,7 @@ const CardNft = ({ nft }) => {
                 <Flex>
                     <h3 style={{ fontWeight: 'normal' }}>{nameReducer(name)}</h3>
                     <Price>
-                        <span>{price} TEZ</span>
+                        <span>{price} CSPR</span>
                     </Price>
                 </Flex>
                 <Flex>
