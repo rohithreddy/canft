@@ -90,7 +90,7 @@ const CardNft = ({ nft }) => {
                     <p style={{ fontSize: 14, fontWeight: 200 }}>2/100 Available</p>
                 </Flex>
                 <Flex>
-                    <span style={{ fontSize: 12, fontWeight: 400, color: "#CCCCCC" }}>Highest bid <strong style={{ color: "black" }}>80.02 CFX</strong></span>
+                    <span style={{ fontSize: 12, fontWeight: 400, color: "#CCCCCC" }}>Highest bid <strong style={{ color: "black" }}>80.02 CSPR</strong></span>
                     <p style={{ fontSize: 12, fontWeight: 400, color: "#CCCCCC" }}>New bid🔥</p>
                 </Flex>
             </BodyWrapper>
