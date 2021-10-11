@@ -8,7 +8,7 @@ const CardWrapper = styled.div`
 
 const ImageWrapper = styled.div`
     width: 250px;
-    height: 300px;
+    height: 270px;
     overflow: hidden;
     border-radius: 16px;
     &:hover {

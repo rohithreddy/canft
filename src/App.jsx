@@ -1,3 +1,6 @@
+/* eslint-disable consistent-return */
+/* eslint-disable array-callback-return */
+/* eslint-disable no-unused-expressions */
 /* eslint-disable react/button-has-type */
 import React, { useState } from 'react';
 import styled from 'styled-components';
@@ -25,7 +28,6 @@ const CasperIcon = styled.img`
 
 const App = () => {
   const [index, setIndex] = useState(0);
-
   const handleClick = (newIndex) => setIndex(newIndex);
 
   return (
@@ -36,15 +38,12 @@ const App = () => {
       <Header>
         <h1 style={{ margin: 0 }}>CANFT</h1>
         <div>
-          <Button 
+          <Button
             startIcon={<CasperIcon src={casperIcon} alt="casper-icon" />}
             isPrimary
-            text="Connect" 
+            text="Connect"
           />
-          <Button
-            style={{ marginLeft: 8 }}
-            text="Create"
-          />
+          <Button style={{ marginLeft: 8 }} text="Create" />
         </div>
       </Header>
 
@@ -65,16 +64,33 @@ const App = () => {
         </Flex>
 
         <Flex>
-          {data.map(({ image, name, price }) => (
-            <CardNft
-              key={name}
-              nft={{
-                image,
-                name,
-                price,
-              }}
-            />
-          ))}
+          {data
+            .filter(({ category }) => {
+              switch (index) {
+                case 1:
+                  return category === 'Art';
+                case 2:
+                  return category === 'Games'
+                case 3:
+                    return category === 'Photography'
+                case 4:
+                    return category === 'Music'
+                case 5:
+                    return category === 'Video'
+                default:
+                  return category;
+              }
+            })
+            .map(({ image, name, price }) => (
+              <CardNft
+                key={name}
+                nft={{
+                  image,
+                  name,
+                  price,
+                }}
+              />
+            ))}
         </Flex>
       </Container>
     </div>
