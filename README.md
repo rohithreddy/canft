@@ -1,5 +1,10 @@
 # 🎨 CANFT 🎨
 
+<p align="center"><img src="./public/canft-banner.png" alt="Canft Source Code"></p>
+<p>
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+</p>
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/da6b38f4-60f0-48c7-b683-5c8bfaa3328d/deploy-status)](https://app.netlify.com/sites/zen-archimedes-b4a5b2/deploys)
 
 Canft is an NFT market built on the PoS-based blockchain, [Casper Network](https://casper-network.com/). But it is not only a market for NFTs if not a decentralized market.
