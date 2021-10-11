@@ -18,3 +18,24 @@ All this is achieved while evolving to provide leading solutions for open-source
 This certainly means that thanks to Casper, canft users will pay a lower fee for their interactions and get the benefit of a fast network. (Who wants to spend several minutes on purchase these days?). 
 
 But it's not just about low fees and high speed, it's about security as well. In the end, the nfts will be assets and as all assets must be protected, that is why Casper is ideal, since thanks to its architecture that breaks [the blockchain trilemma](https://coinmarketcap.com/alexandria/glossary/blockchain-trilemma), we can say with certainty that Casper is safe.
+
+## CANFT DAO
+
+Canft will allow artists and stakeholders to participate in decisions at the project level so that they work not only now but in the long term.
+
+Among the options they can choose will be:
+
+- ✔️ Protocol
+- ✔️ Monthly content promotion (eg; Which artists or NFTs will be promoted in the month of October with the theme of Halloween)
+- ✔️ Commissions (eg Royalties)
+- ✔️ User Bann
+- ✔️ Design updates
+- ✔️ Selection of ambassadors
+- Others
+
+The weight of the rulers will be carried out by the governance token $ CANFT. And in each vote, they will not only participate in the DAO but they will also be rewarded for doing so, this as an incentive to continue participating in the decentralized network for artists; Canft.
+
+The DAO will also cover the development of the project, that is, the cost to the development team, designers, community managers, and anyone responsible for making the project develop.
+
+Initially, they will be informal voting carried out in a forum or a means designed for it. Then it will be through a platform where the weight of the vote will be counted as the amount of token owned by each interested party.
+But the long-term goal is for the votes to be carried out 100% on-chain so that little by little it becomes an autonomous DAO without the intervention of any intermediary.
