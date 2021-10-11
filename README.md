@@ -89,3 +89,5 @@ But the long-term goal is for the votes to be carried out 100% on-chain so that 
 The idea of the CANFT token apart from governing is to create scarcity as well.
 
 CANFT's initial supply will be `100,000 CANFT`, although the maximum supply is unlimited since it will be used for rewards within the platform and for the development of the project. Once the platform is profitable, the profits will be used for the buyback / burn of tokens.
+
+![initial-canft-token-distribution](./public/meta-chart.png)
